@@ -126,6 +126,7 @@ public class Medidas {
         }
     }
 
+
     public static void divisaoPorZero(){
 
         try {
